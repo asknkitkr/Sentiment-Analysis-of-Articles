@@ -31,7 +31,7 @@ After installing all the required packages, open **main2.py**
 ## Contributors
 - Ankit Kumar - https://github.com/asknkitkr
 - Tushar Lohani - https://github.com/Tusharlohani
-- Sakshi Kumari - https://github.com/
+- Sakshi Kumari - https://github.com/sakshi413
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
